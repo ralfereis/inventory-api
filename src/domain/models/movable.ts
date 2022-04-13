@@ -1,5 +1,6 @@
 export type MovableModel= {
   id: string
+  tag_number: number
   description: string
   subitem_id: string
   entry_type: string
